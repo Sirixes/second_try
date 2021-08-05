@@ -1,6 +1,0 @@
-[{
-  "id": "clock",
-  "label": "orologio",
-  "widget": "button",
-  "topic": "android/services/clocks"
-}]

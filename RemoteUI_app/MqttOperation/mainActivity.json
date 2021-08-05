@@ -1,7 +1,0 @@
-[{
-  "id": "calc1",
-  "label": "Calcolatrice +",
-  "widget": "button",
-  "topic": "android/services/calcPlus"
-}
-]
